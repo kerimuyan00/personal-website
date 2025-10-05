@@ -13,6 +13,7 @@ Tüm dosyaları aynı klasöre koyup `index.html` dosyasını tarayıcıda açar
 
 ## İletişim
 - 📧 kerimuyan.09@gmail.com  
-- 🌐 [GitHub](https://github.com/kerimuyan)  
+- 🌐 [GitHub](https://github.com/kerimuyan00)  
 - 🔗 [LinkedIn](https://linkedin.com/in/kerim-uyan-05a34b342)
+
 
